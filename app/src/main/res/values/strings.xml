@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">PDFreader</string>
+  <string name="action_settings">Settings</string>
+  <string name="action_enter">دخول</string>
+  <string name="action_about">عن التطبيق</string>
+  <string name="Aboutit">عن التطبيق</string>
+  <string name="message"> برمجة وتصميم مركز تقنية المعلومات والاتصالات .</string>
+</resources>
